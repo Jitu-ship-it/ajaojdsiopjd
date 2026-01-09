@@ -1,12 +1,10 @@
-echo "# ajaojdsiopjd" >> README.md
+//steps after creating a empty repositor
+
 git init
-git add README.md
-git commit -m "first commit"
+git remote add origin https://github.com/Jitu-ship-it/sjakdjgasdjk.git
 git branch -M main
-git remote add origin https://github.com/Jitu-ship-it/ajaojdsiopjd.git
+git add .
+git commit -m "about page updated"
 git push -u origin main
 
-
-git remote add origin https://github.com/Jitu-ship-it/ajaojdsiopjd.git
-git branch -M main
-git push -u origin main
+// working on existing repository.
